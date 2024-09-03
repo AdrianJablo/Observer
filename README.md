@@ -1,6 +1,4 @@
 # Observer
-Task from the Apriorit company course: "Advanced C++ and Low-Level Programming online course"
-
 Console application that uses observer:
 - Prints “hello world” (or any other text) in the console.
 - Watches the mouse movement: 
